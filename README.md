@@ -2,7 +2,7 @@
 
 Meu nome é Eloíse Ciarini
 
-- Estou estudando na Alura
+- Estou sendo lecionado em Alura
 
 ![](https://tenor.com/pt-BR/view/wave-joy-inside-out-gif-11622749)
             
